@@ -1,3 +1,3 @@
 # Ramsey Number Graph
 
-## Ramsey's the
+## Ramsey's theorem and Gra
