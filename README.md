@@ -4,4 +4,4 @@
 
 The research about **Ramsey Numbers**.
 
-In combina
+In combinatorial mathematics, R
