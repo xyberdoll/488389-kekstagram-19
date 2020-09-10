@@ -4,4 +4,4 @@
 
 The research about **Ramsey Numbers**.
 
-In combinatorial mathematics, R
+In combinatorial mathematics, Ramsey's theorem s
