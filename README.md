@@ -4,4 +4,4 @@
 
 The research about **Ramsey Numbers**.
 
-In combinatorial mathematics, Ramsey's theorem states that one
+In combinatorial mathematics, Ramsey's theorem states that one will find monochr
