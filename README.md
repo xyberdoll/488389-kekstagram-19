@@ -4,4 +4,4 @@
 
 The research about **Ramsey Numbers**.
 
-In combinatorial mathematics, Ramsey's theorem states that one will find monochromatic cliques i
+In combinatorial mathematics, Ramsey's theorem states that one will find monochromatic cliques in any edge labellin
