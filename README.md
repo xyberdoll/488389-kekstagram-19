@@ -11,4 +11,5 @@ Ramsey's theorem is a foundational result in combinatorics. The first version of
 An extension of this theorem applies to any finite number of colours, rather than just two. More precisely, the theorem states that for any given number of colours, c, and any given integers n1, …, nc, there is a number, R(n1, …, nc), such that if the edges of a complete graph of order R(n1, ..., nc) are coloured with c different colours, then for some i between 1 and c, it must contain a complete subgraph of order ni whose edges are all colour i. The special case above has c = 2 (and n1 = r and n2 = s).
 
 
-| m	| n	| R(m,n)	| Reference
+| m	| n	| R(m,n)	| Reference |
+| - | - | --
