@@ -12,4 +12,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 
 
 | m	| n	| R(m,n)	| Reference |
-| - | - | --
+| - | - | ------- | ---------
