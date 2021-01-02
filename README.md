@@ -13,4 +13,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 
 | m	| n	| R(m,n)	| Reference |
 | - | - | ------- | --------- |
-| 3 | 3 | 6 | Greenwood and Gleason 195
+| 3 | 3 | 6 | Greenwood and Gleason 1955 |
+| 3 | 
