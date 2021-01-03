@@ -15,4 +15,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | - | - | ------- | --------- |
 | 3 | 3 | 6 | Greenwood and Gleason 1955 |
 | 3 | 4 | 9 | Greenwood and Gleason 1955 |
-| 3 | 5 | 14 | Greenwood and G
+| 3 | 5 | 14 | Greenwood and Gleason 1955 |
+|
