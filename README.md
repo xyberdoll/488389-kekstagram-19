@@ -17,4 +17,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 4 | 9 | Greenwood and Gleason 1955 |
 | 3 | 5 | 14 | Greenwood and Gleason 1955 |
 | 3 | 6 | 18 | Graver and Yackel 1968 |
-| 3 | 7
+| 3 | 7 | 23 | Kalbflei
