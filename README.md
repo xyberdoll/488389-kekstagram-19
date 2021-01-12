@@ -18,4 +18,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 5 | 14 | Greenwood and Gleason 1955 |
 | 3 | 6 | 18 | Graver and Yackel 1968 |
 | 3 | 7 | 23 | Kalbfleisch 1966 |
-| 3 | 8 | 28 | McKay and Min
+| 3 | 8 | 28 | McKay and Min 1992 |
+| 3 | 9 | 3
