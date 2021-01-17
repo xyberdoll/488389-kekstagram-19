@@ -20,4 +20,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 7 | 23 | Kalbfleisch 1966 |
 | 3 | 8 | 28 | McKay and Min 1992 |
 | 3 | 9 | 36 | Grinstead and Roberts 1982 |
-| 3 | 10 | [40
+| 3 | 10 | [40, 43] | Exoo 1
