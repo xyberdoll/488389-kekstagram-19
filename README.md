@@ -21,4 +21,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 8 | 28 | McKay and Min 1992 |
 | 3 | 9 | 36 | Grinstead and Roberts 1982 |
 | 3 | 10 | [40, 43] | Exoo 1989c, Radziszowski and Kreher 1988 |
-| 3 | 11 | [46, 51] | Radzisz
+| 3 | 11 | [46, 51] | Radziszowski and 
