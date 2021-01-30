@@ -23,4 +23,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 10 | [40, 43] | Exoo 1989c, Radziszowski and Kreher 1988 |
 | 3 | 11 | [46, 51] | Radziszowski and Kreher 1988 |
 | 3 | 12 | [52, 59] | Exoo 1993, Radziszowski and Kreher 1988, Exoo 1998, Lesser 2001 |
-| 3 | 13 | [59, 69] | Piwakowski 1996, Radziszowski and Kreher
+| 3 | 13 | [59, 69] | Piwakowski 1996, Radziszowski and Kreher 1988 |
+| 3 | 14 | [66
