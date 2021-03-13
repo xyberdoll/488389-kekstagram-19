@@ -31,4 +31,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 18 | [98, 170] | Wang et al. 1994 |
 | 3 | 19 | [106, 189] | Wang et al. 1994 |
 | 3 | 20 | [109, 209] | Wang et al. 1994 |
-| 3 | 21 | [122, 230] | W
+| 3 | 21 | [122, 230] | Wang et al. 1994 |
+|
