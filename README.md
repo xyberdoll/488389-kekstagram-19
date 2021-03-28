@@ -36,4 +36,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 3 | 23 | [136, 275] | Wang et al. 1994 |
 | 4 | 4 | 18 | Greenwood and Gleason 1955 |
 | 4 | 5 | 25 | McKay and Radziszowski 1995 |
-| 4 | 6 | [35, 41] | Exoo (unpub.), McKay and Rad
+| 4 | 6 | [35, 41] | Exoo (unpub.), McKay and Radziszowski 1995 |
+| 4 
