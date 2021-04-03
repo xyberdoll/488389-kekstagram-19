@@ -37,4 +37,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 4 | 4 | 18 | Greenwood and Gleason 1955 |
 | 4 | 5 | 25 | McKay and Radziszowski 1995 |
 | 4 | 6 | [35, 41] | Exoo (unpub.), McKay and Radziszowski 1995 |
-| 4 | 7 | [49, 61] | Exoo 1989a, 
+| 4 | 7 | [49, 61] | Exoo 1989a, Mackey 1994 |
+| 4 | 
