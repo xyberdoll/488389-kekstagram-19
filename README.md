@@ -40,4 +40,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 4 | 7 | [49, 61] | Exoo 1989a, Mackey 1994 |
 | 4 | 8 | [56, 84] | Exoo 1998, Exoo 2002 |
 | 4 | 9 | [73, 115] | Radziszowski 1988, Mackey 1994 |
-| 4 | 10
+| 4 | 10 | [92, 149] | P
