@@ -43,4 +43,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 4 | 10 | [92, 149] | Piwakowski 1996, Mackey 1994, Harboth and Krause 2003 |
 | 4 | 11 | [97, 191] | Piwakowski 1996, Spencer 1994, Burr et al. 1989 |
 | 4 | 12 | [128, 238] | Su et al. 1998, Spencer 1994 |
-| 4 | 13 | [133, 291] | Xu and Xie 200
+| 4 | 13 | [133, 291] | Xu and Xie 2002 |
+| 4 | 14 | [141, 3
