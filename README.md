@@ -49,4 +49,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 4 | 16 | [153, 815] |  |
 | 4 | 17 | [182, 968] | Luo et al. 2001 |
 | 4 | 18 | [182, 1139] |  |
-| 4 | 19 | [198, 1329
+| 4 | 19 | [198, 1329] | Luo et al.
