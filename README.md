@@ -56,4 +56,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 5 | 5 | [43, 49] | Exoo 1989b, McKay and Radziszowski 1995 |
 | 5 | 6 | [58, 87] | Exoo 1993, Walker 1971 |
 | 5 | 7 | [80, 143] | CET, Spencer 1994 |
-| 5 | 8 | [101, 216] | Piwako
+| 5 | 8 | [101, 216] | Piwakowski 1996, Spencer
