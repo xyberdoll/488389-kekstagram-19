@@ -58,4 +58,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 5 | 7 | [80, 143] | CET, Spencer 1994 |
 | 5 | 8 | [101, 216] | Piwakowski 1996, Spencer 1994, Harborth and Krause 2003 |
 | 5 | 9 | [125, 316] | Exoo 1998, Haanpää 2000 |
-| 5 | 10 | [143, 442]
+| 5 | 10 | [143, 442] | Exoo 1998, M
