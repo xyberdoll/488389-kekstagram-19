@@ -64,4 +64,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 5 | 13 | [205, 1819] | Exoo 1998, Xiaodong et al. 2004 |
 | 5 | 14 | [233, 2379] | Exoo 1998, Xiaodong et al. 2004 |
 | 5 | 15 | [261, 3059] | Su et al. 2002, Xiaodong et al. 2004 |
-| 5 | 16 | [278, 3875] | Lu
+| 5 | 16 | [278, 3875] | Luo et al. 2001 |
