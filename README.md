@@ -75,4 +75,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 5 | 24 | [434, 17549] |  |
 | 5 | 25 | [434, 20474] |  |
 | 5 | 26 | [464, 23750] |  |
-| 6 | 6 | [102, 165] | Kalbfl
+| 6 | 6 | [102, 165] | Kalbfleisch 1965, Mac
