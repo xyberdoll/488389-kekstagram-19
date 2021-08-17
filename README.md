@@ -77,4 +77,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 5 | 26 | [464, 23750] |  |
 | 6 | 6 | [102, 165] | Kalbfleisch 1965, Mackey 1994 |
 | 6 | 7 | [113, 298] | Exoo 1998, Xu and Xie 2002 |
-| 6 | 8 | [127,
+| 6 | 8 | [127, 495] | Exoo 1998
