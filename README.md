@@ -92,4 +92,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 6 | 20 | [878, 42503] | Su et al. 2002 |
 | 6 | 21 | [878, 53129] |  |
 | 6 | 22 | [1070, 65779] | Su et al. 2002 |
-| 7 
+| 7 | 7 | [205, 
