@@ -94,4 +94,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 6 | 22 | [1070, 65779] | Su et al. 2002 |
 | 7 | 7 | [205, 540] | Hill and Irving 1982, Giraud 1973 |
 | 7 | 8 | [216, 1031] | Xu and Xie 2002 |
-| 7 | 9 | [233, 1713] | Huang and Zhang 199
+| 7 | 9 | [233, 1713] | Huang and Zhang 1998, Xiaodong and 
