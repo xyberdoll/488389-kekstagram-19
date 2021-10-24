@@ -99,4 +99,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 7 | 11 | [405, 8007] | Xu and Xie 2002, Xiaodong and Zheng 2002 |
 | 7 | 12 | [416, 12375] | Xu and Xie 2002 |
 | 7 | 13 | [511, 18563] | Xu and Xie 2002 |
-| 7 | 14
+| 7 | 14 | [511, 27131] 
