@@ -101,3 +101,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 7 | 13 | [511, 18563] | Xu and Xie 2002 |
 | 7 | 14 | [511, 27131] |  |
 | 7 | 15 | [511, 38759] |  |
+| 7 | 16 | [511,
