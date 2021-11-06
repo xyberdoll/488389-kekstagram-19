@@ -105,4 +105,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 7 | 17 | [628, 74612] | Xu and Xie 2002 |
 | 7 | 18 | [722, 100946] | Xu and Xie 2002 |
 | 7 | 19 | [908, 134595] | Su et al. 2002 |
-| 7 | 20 | [90
+| 7 | 20 | [908, 177099] |  |
+| 7 
