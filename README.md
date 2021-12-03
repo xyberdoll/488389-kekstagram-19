@@ -111,4 +111,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 8 | 9 | [317, 3583] | Radziszowski 2002, Xiaodong et al. 2004 |
 | 8 | 10 | [377, 6090] | Xu and Xie 2002, Huang and Zhang 1998, Xiaodong et al. 2004 |
 | 8 | 11 | [377, 19447] |  |
-| 8 | 12 | [37
+| 8 | 12 | [377, 31823] |  |
+| 
