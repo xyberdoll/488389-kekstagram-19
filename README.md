@@ -121,4 +121,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 8 | 19 | [1054, 480699] | Xu and Xie 2002 |
 | 8 | 20 | [1094, 657799] | Su et al. 2002 |
 | 8 | 21 | [1328, 888029] | Su et al. 2002 |
-| 
+| 9 | 9 | [565, 65
