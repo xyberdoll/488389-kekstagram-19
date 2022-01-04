@@ -124,4 +124,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 9 | 9 | [565, 6588] | Shearer 1986, Shi and Zheng 2001 |
 | 9 | 10 | [580, 12677] | Xu and Xie 2002 |
 | 10 | 10 | [798, 23556] | Shearer 1986, Shi 2002 |
-| 11 | 11 | [1597,
+| 11 | 11 | [1597, 184755] | Mathon 198
