@@ -128,3 +128,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 12 | 12 | [1637, 705431] | Xu and Xie 2002 |
 | 13 | 13 | [2557, 2704155] | Mathon 1987 |
 | 14 | 14 | [2989, 10400599] | Mathon 1987 |
+| 15 | 15 | 
