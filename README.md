@@ -129,4 +129,5 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 13 | 13 | [2557, 2704155] | Mathon 1987 |
 | 14 | 14 | [2989, 10400599] | Mathon 1987 |
 | 15 | 15 | [5485, 40116599] | Mathon 1987 |
-| 16 | 16 | [5605, 15511751
+| 16 | 16 | [5605, 155117519] | Mathon 1987 |
+| 17 |
