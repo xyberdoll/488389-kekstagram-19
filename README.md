@@ -134,4 +134,4 @@ An extension of this theorem applies to any finite number of colours, rather tha
 | 18 | 18 | [11005, 2333606219] | Luo et al. 2002 |
 | 19 | 19 | [17885, 9075135299] | Luo et al. 2002 |
 
-The Ramsey number R(m,n) gives the solution to the party problem,
+The Ramsey number R(m,n) gives the solution to the party problem, which asks the mi
