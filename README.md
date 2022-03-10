@@ -136,4 +136,7 @@ An extension of this theorem applies to any finite number of colours, rather tha
 
 The Ramsey number R(m,n) gives the solution to the party problem, which asks the minimum number of guests R(m,n) that must be invited so that at least m will know each other or at least n will not know each other. In the language of graph theory, the Ramsey number is the minimum number of vertices v=R(m,n) such that all undirected simple graphs of order v contain a clique of order m or an independent set of order n. Ramsey's theorem states that such a number exists for all m and n.
 
-[Ramsey Number](http://mathworld.wolfram.com/Ramsey
+[Ramsey Number](http://mathworld.wolfram.com/RamseyNumber.html)
+
+
+----
