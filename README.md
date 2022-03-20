@@ -145,3 +145,4 @@ The Ramsey number R(m,n) gives the solution to the party problem, which asks the
 ============> 1, 2, 3
 - :::::>1, 2
 - :::::>1, 3
+- :::::>2,
