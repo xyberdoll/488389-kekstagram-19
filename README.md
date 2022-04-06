@@ -150,4 +150,6 @@ The Ramsey number R(m,n) gives the solution to the party problem, which asks the
 ============> 1, 2, 4
 - :::::>1, 2
 - :::::>1, 4
-- :::::>2
+- :::::>2, 4
+
+============> 1, 2
