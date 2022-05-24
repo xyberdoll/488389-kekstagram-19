@@ -178,4 +178,6 @@ The Ramsey number R(m,n) gives the solution to the party problem, which asks the
 - :::::>3, 4
 
 ============> 2, 3, 5
-- :::::>2, 
+- :::::>2, 3
+- :::::>2, 5
+- 
