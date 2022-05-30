@@ -184,4 +184,5 @@ The Ramsey number R(m,n) gives the solution to the party problem, which asks the
 
 ============> 2, 4, 5
 - :::::>2, 4
-- :
+- :::::>2, 5
+- :::
