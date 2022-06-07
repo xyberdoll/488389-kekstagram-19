@@ -23,3 +23,22 @@
 
 typedef enum {
 	false,
+	true,
+} bool;
+
+typedef struct {
+	uint64_t a;
+	uint64_t b;
+} pair;
+
+typedef struct {
+	uint64_t a;
+	uint64_t b;
+	unsigned int c;
+} color;
+
+int art;
+int count;
+pair **items;
+color *edges;
+uint64_t edgesCount=0;
