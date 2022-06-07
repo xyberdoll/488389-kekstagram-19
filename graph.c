@@ -42,3 +42,18 @@ int count;
 pair **items;
 color *edges;
 uint64_t edgesCount=0;
+
+unsigned int randomColor() {
+	return rand() % count;
+}
+
+unsigned int found(uint64_t i, uint64_t j) {
+	FOR(i, 0, edgesCount) {
+		// printf("==>%d\n", i);
+		if(
+			(edges[i].a == i && edges[i].b == j) ||
+			(edges[i].a == j && edges[i].b == i)) {
+			return edges[i].c;
+		}
+	}
+	return -1;
