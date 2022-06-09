@@ -79,3 +79,26 @@ int main(int argc, char const *argv[]) {
 		FOR(j, i+1, art) {
 			FOR(l, j+1, art) {
 				FOR(w, l+1, art) {
+					FOR(e, w+1, art) {
+						// printf("%d, %d, %d, %d, %d\n", i+1, j+1, l+1, w+1, e+1);
+						items[itemsCount]=malloc(sizeof(pair)*10);
+
+						SET_PAIR(items[itemsCount][0], i+1, j+1);
+						SET_PAIR(items[itemsCount][1], i+1, l+1);
+						SET_PAIR(items[itemsCount][2], i+1, w+1);
+						SET_PAIR(items[itemsCount][3], i+1, e+1);
+
+						SET_PAIR(items[itemsCount][4], j+1, l+1);
+						SET_PAIR(items[itemsCount][5], j+1, w+1);
+						SET_PAIR(items[itemsCount][6], j+1, e+1);
+
+						SET_PAIR(items[itemsCount][7], l+1, w+1);
+						SET_PAIR(items[itemsCount][8], l+1, e+1);
+
+						SET_PAIR(items[itemsCount][9], w+1, e+1);
+						itemsCount++;
+					}
+				}
+			}
+		}
+	}
