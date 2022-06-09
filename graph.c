@@ -57,3 +57,25 @@ unsigned int found(uint64_t i, uint64_t j) {
 		}
 	}
 	return -1;
+}
+
+int main(int argc, char const *argv[]) {
+	art=43;
+	count=2;	
+	srand(time(0));
+	items=malloc(sizeof(pair*)*962598);
+	uint64_t first_limit=10000;
+	uint64_t first_limit_index=0;
+	edges=malloc(sizeof(color)*903);
+	edgesCount=0;
+	FOR(i, 0, art) {
+		FOR(j, i+1, art) {
+			SET_PAIR(edges[edgesCount], i+1, j+1);
+			edgesCount++;
+		}
+	}
+	uint64_t itemsCount=0;
+	FOR(i, 0, art) {
+		FOR(j, i+1, art) {
+			FOR(l, j+1, art) {
+				FOR(w, l+1, art) {
