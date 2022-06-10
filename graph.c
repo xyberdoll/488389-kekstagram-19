@@ -102,3 +102,19 @@ int main(int argc, char const *argv[]) {
 			}
 		}
 	}
+	while(1) {
+		check:
+		printf("%" PRIu64 "/%" PRIu64 "\n", first_limit_index+1, first_limit);
+		first_limit_index+=1;
+		if(first_limit_index == first_limit) {
+				printf("END, Limit.....");
+				exit(-1);
+		}
+		FOR(i, 0, edgesCount) {
+			edges[i].c=randomColor();
+		}
+		bool sameColor=false;
+		FOR(i, 0, itemsCount) {
+			bool checkContinue=true;
+			unsigned int color=-1;
+			FOR(j, 0, 10) {
