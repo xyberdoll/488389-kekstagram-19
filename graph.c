@@ -118,3 +118,24 @@ int main(int argc, char const *argv[]) {
 			bool checkContinue=true;
 			unsigned int color=-1;
 			FOR(j, 0, 10) {
+				if(color == -1) {
+					color=found(items[i][j].a, items[i][j].b);
+					continue;
+				}
+				else {
+					unsigned int tcolor=found(items[i][j].a, items[i][j].b);
+					// printf("==>%d\n", tcolor);
+					if(tcolor != color) {
+						checkContinue=false;
+						break;
+					}
+				}
+			}
+			if(checkContinue == true) {
+				sameColor=true;
+				goto check;
+				exit(1);
+			}
+		}
+		if(sameColor == false) {
+			printf("Done\n");
