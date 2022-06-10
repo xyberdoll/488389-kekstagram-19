@@ -1,4 +1,5 @@
 /**
  *
  * @Name : RamseyNumber/graph.old.c
- * @V
+ * @Version : 1.0
+ * @Program
