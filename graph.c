@@ -139,3 +139,10 @@ int main(int argc, char const *argv[]) {
 		}
 		if(sameColor == false) {
 			printf("Done\n");
+			// printf("Colorize edges of the graph: " + str(edges));
+			exit(1);
+		}
+	}
+	printf("%" PRIu64 "\n", itemsCount);
+	return 0;
+}
