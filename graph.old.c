@@ -12,4 +12,4 @@
 #include <stdlib.h>
 #include <time.h>
 
-ty
+typedef struct 
