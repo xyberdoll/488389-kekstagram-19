@@ -8,4 +8,5 @@
  * @Repository : https://github.com/BaseMax/RamseyNumber
  *
  **/
+#include <stdio.h>
 #i
