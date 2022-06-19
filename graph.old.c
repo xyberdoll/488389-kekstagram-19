@@ -12,4 +12,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-typedef struct 
+typedef struct {
+	int key;
+	int v
