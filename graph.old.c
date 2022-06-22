@@ -21,3 +21,5 @@ typedef struct {
 typedef struct  {
 	pair item;
 } val;
+
+int factoria
