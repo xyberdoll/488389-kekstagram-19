@@ -22,4 +22,5 @@ typedef struct  {
 	pair item;
 } val;
 
-int factoria
+int factorial(int v) {
+	int
