@@ -23,4 +23,5 @@ typedef struct  {
 } val;
 
 int factorial(int v) {
-	int
+	int result=v;
+	for(i
