@@ -25,4 +25,6 @@ typedef struct  {
 int factorial(int v) {
 	int result=v;
 	for(int i=1;i<v;i++) {
-		res
+		result*=i;
+	}
+	return 
