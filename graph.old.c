@@ -30,4 +30,4 @@ int factorial(int v) {
 	return result;
 }
 
-int main(i
+int main(int argc, char const *arg
