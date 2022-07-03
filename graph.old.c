@@ -31,4 +31,5 @@ int factorial(int v) {
 }
 
 int main(int argc, char const *argv[]) {
-	co
+	const int k=5;
+	c
