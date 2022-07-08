@@ -32,4 +32,5 @@ int factorial(int v) {
 
 int main(int argc, char const *argv[]) {
 	const int k=5;
-	c
+	const int c=2;
+	/////
