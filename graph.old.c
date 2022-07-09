@@ -34,4 +34,5 @@ int main(int argc, char const *argv[]) {
 	const int k=5;
 	const int c=2;
 	//////////////////////
-	i
+	int v[k];
+	for
