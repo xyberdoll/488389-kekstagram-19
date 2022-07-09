@@ -35,4 +35,5 @@ int main(int argc, char const *argv[]) {
 	const int c=2;
 	//////////////////////
 	int v[k];
-	for(int i=0;i<k;i++)
+	for(int i=0;i<k;i++) {
+		v[i]=i+1;
