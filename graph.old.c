@@ -39,4 +39,5 @@ int main(int argc, char const *argv[]) {
 		v[i]=i+1;
 	}
 	//////////////////////
-	// int
+	// int e[k][k-1];
+	//
