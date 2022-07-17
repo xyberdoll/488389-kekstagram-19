@@ -41,4 +41,4 @@ int main(int argc, char const *argv[]) {
 	//////////////////////
 	// int e[k][k-1];
 	// for(int i=0;i<k;i++) {
-	
+	// 	for(int j=i+1;j
