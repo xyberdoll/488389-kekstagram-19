@@ -43,4 +43,4 @@ int main(int argc, char const *argv[]) {
 	// for(int i=0;i<k;i++) {
 	// 	for(int j=i+1;j<k;j++) {
 	// 		e[i][j]=-1;
-	// 
+	// 		// printf("%d, %
