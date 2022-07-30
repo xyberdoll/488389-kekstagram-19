@@ -47,4 +47,4 @@ int main(int argc, char const *argv[]) {
 	// 	}
 	// }
 	//////////////////////
-	
+	int ecsize=fac
