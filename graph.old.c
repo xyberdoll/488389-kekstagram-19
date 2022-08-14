@@ -48,4 +48,4 @@ int main(int argc, char const *argv[]) {
 	// }
 	//////////////////////
 	int ecsize=factorial(k) / (factorial(k-2) * factorial(2));
-	// e.g: (5
+	// e.g: (5×4×3×2)÷(3×2×2)
