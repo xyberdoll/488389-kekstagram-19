@@ -51,4 +51,4 @@ int main(int argc, char const *argv[]) {
 	// e.g: (5×4×3×2)÷(3×2×2)
 	//	printf("-->%d\n", factorial(k));
 	//	printf("-->%d\n", factorial(k-2));
-	//	printf("-->%d\n
+	//	printf("-->%d\n", factorial(2)
