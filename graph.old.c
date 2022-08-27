@@ -53,4 +53,5 @@ int main(int argc, char const *argv[]) {
 	//	printf("-->%d\n", factorial(k-2));
 	//	printf("-->%d\n", factorial(2));
 	pair *ec=malloc(sizeof(pair) * ecsize);
-	int l
+	int l=0;
+	for(int i=0;i<k
