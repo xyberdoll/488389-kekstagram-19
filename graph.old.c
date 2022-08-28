@@ -57,3 +57,5 @@ int main(int argc, char const *argv[]) {
 	for(int i=0;i<k;i++) {
 		for(int j=i+1;j<k;j++) {
 			ec[l].key=i+1;
+			ec[l].value=j+1;
+		
