@@ -55,4 +55,4 @@ int main(int argc, char const *argv[]) {
 	pair *ec=malloc(sizeof(pair) * ecsize);
 	int l=0;
 	for(int i=0;i<k;i++) {
-		for(int j
+		for(int j=i+1;j<k;j
