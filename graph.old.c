@@ -61,3 +61,5 @@ int main(int argc, char const *argv[]) {
 			ec[l].color=-1;
 			l++;
 		}
+	}
+	// printf
