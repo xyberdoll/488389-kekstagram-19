@@ -65,4 +65,5 @@ int main(int argc, char const *argv[]) {
 	// printf(":::::::::::%d\n", l);
 	//////////////////////
 	pair **items=malloc(sizeof(pair*)*l);
-	for(int i=0;i<l;i++)
+	for(int i=0;i<l;i++) {
+		items[i]=mall
