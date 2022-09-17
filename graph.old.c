@@ -69,4 +69,5 @@ int main(int argc, char const *argv[]) {
 		items[i]=malloc(sizeof(pair)*3);
 	}
 	//////////////////////
-	int 
+	int q=0;
+	for(int i=
