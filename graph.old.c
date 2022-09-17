@@ -71,4 +71,4 @@ int main(int argc, char const *argv[]) {
 	//////////////////////
 	int q=0;
 	for(int i=0;i<k;i++) {
-		fo
+		for(int j=i+1;j<k
