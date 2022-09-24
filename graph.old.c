@@ -72,4 +72,5 @@ int main(int argc, char const *argv[]) {
 	int q=0;
 	for(int i=0;i<k;i++) {
 		for(int j=i+1;j<k;j++) {
-			// printf("%d, %d\n",
+			// printf("%d, %d\n", i+1, j+1);
+			for(in
