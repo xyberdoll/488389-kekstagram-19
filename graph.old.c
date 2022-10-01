@@ -75,3 +75,4 @@ int main(int argc, char const *argv[]) {
 			// printf("%d, %d\n", i+1, j+1);
 			for(int l=j+1;l<k;l++) {
 				// printf("----> %d, %d, %d\n", i+1, j+1, l+1);
+				items[q][0].key=i+1;
