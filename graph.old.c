@@ -79,4 +79,5 @@ int main(int argc, char const *argv[]) {
 				items[q][0].value=j+1;
 
 				items[q][1].key=i+1;
-			
+				items[q][1].value=l+1;
+
