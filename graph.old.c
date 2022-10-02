@@ -76,4 +76,6 @@ int main(int argc, char const *argv[]) {
 			for(int l=j+1;l<k;l++) {
 				// printf("----> %d, %d, %d\n", i+1, j+1, l+1);
 				items[q][0].key=i+1;
-				items[q][0].val
+				items[q][0].value=j+1;
+
+				item
