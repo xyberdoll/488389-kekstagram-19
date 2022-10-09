@@ -83,4 +83,4 @@ int main(int argc, char const *argv[]) {
 
 				items[q][2].key=j+1;
 				items[q][2].value=l+1;
-		
+				// for(int j=0;j<3
