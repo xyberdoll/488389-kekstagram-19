@@ -87,4 +87,6 @@ int main(int argc, char const *argv[]) {
 				// 	...
 				// }
 				q++;
-				// for(int p=0;p<l
+				// for(int p=0;p<l;p++) {
+				//	...
+				/
