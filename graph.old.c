@@ -96,4 +96,4 @@ int main(int argc, char const *argv[]) {
 	for(int i=0;i<q;i++) {
 		printf("============> %d, %d, %d\n", items[i][0].key, items[i][0].value, items[i][2].value);
 		for(int j=0;j<3;j++) {
-			printf(":::::>%d, %d
+			printf(":::::>%d, %d\n", items[i][j].
