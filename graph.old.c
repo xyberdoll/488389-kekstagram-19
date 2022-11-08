@@ -99,4 +99,6 @@ int main(int argc, char const *argv[]) {
 			printf(":::::>%d, %d\n", items[i][j].key, items[i][j].value);
 		}
 	}
-	/////////////////////
+	//////////////////////
+	while(1) {
+		//////
