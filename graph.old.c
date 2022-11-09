@@ -102,4 +102,5 @@ int main(int argc, char const *argv[]) {
 	//////////////////////
 	while(1) {
 		//////////////////////
-	
+		srand(time(0));
+		for(
