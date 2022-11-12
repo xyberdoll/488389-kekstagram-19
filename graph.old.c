@@ -103,4 +103,4 @@ int main(int argc, char const *argv[]) {
 	while(1) {
 		//////////////////////
 		srand(time(0));
-		for(
+		for(int i=0;i<ecsize;i++) {
