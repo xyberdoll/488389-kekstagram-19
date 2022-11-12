@@ -105,4 +105,5 @@ int main(int argc, char const *argv[]) {
 		srand(time(0));
 		for(int i=0;i<ecsize;i++) {
 			ec[i].color=rand() % c; // 0 or 1, -1: none
-	
+		}
+		////////////
