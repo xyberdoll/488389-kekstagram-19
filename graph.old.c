@@ -107,3 +107,4 @@ int main(int argc, char const *argv[]) {
 			ec[i].color=rand() % c; // 0 or 1, -1: none
 		}
 		//////////////////////
+		for(int i=0;i<
