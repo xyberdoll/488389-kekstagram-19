@@ -108,4 +108,4 @@ int main(int argc, char const *argv[]) {
 		}
 		//////////////////////
 		for(int i=0;i<ecsize;i++) {
-			printf("===> %d [%d => %d] / C
+			printf("===> %d [%d => %d] / Color %d\n", i, ec[i
