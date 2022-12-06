@@ -1,3 +1,3 @@
 /**
  *
- * @Name : Ramse
+ * @Name : RamseyNumber/graph.test.
