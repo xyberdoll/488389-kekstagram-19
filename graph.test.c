@@ -10,4 +10,6 @@
  **/
 #include <stdio.h>
 #include <stdlib.h>
-#include <t
+#include <time.h>
+
+type
