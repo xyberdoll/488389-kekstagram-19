@@ -12,4 +12,5 @@
 #include <stdlib.h>
 #include <time.h>
 
-type
+typedef struct {
+	i
