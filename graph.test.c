@@ -13,4 +13,5 @@
 #include <time.h>
 
 typedef struct {
-	i
+	int key;
+	int val
