@@ -14,4 +14,6 @@
 
 typedef struct {
 	int key;
-	int val
+	int value;
+	int color;
+}
