@@ -18,4 +18,5 @@ typedef struct {
 	int color;
 } pair;
 
-t
+typedef struct {
+	int 
