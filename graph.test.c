@@ -19,4 +19,7 @@ typedef struct {
 } pair;
 
 typedef struct {
-	int 
+	int a;
+	int b;
+	int c;
+} box
