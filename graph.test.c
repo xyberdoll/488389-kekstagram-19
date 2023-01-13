@@ -22,4 +22,6 @@ typedef struct {
 	int a;
 	int b;
 	int c;
-} box
+} box;
+
+box items
