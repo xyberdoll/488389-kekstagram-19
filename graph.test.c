@@ -24,4 +24,6 @@ typedef struct {
 	int c;
 } box;
 
-box items
+box items[]=
+{
+	{1, 2, 3},
