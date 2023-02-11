@@ -38,4 +38,4 @@ box items[]=
 	{3, 4, 5},
 };
 
-int fac
+int factorial(int v) {
