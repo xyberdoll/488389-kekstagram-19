@@ -39,3 +39,5 @@ box items[]=
 };
 
 int factorial(int v) {
+	int result=v;
+	for(in
