@@ -40,4 +40,5 @@ box items[]=
 
 int factorial(int v) {
 	int result=v;
-	for(in
+	for(int i=1;i<v;i++) {
+		resul
