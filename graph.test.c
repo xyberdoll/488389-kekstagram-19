@@ -43,3 +43,7 @@ int factorial(int v) {
 	for(int i=1;i<v;i++) {
 		result*=i;
 	}
+	return result;
+}
+
+i
